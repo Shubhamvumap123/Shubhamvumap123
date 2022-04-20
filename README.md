@@ -10,19 +10,19 @@
   
 
 
-- 🔭 I’m currently working on [𝓞𝓥𝓔𝓡𝓢𝓣𝓞𝓒𝓚 𝓒𝓛𝓞𝓝𝓔](https://overstockk.netlify.app)
+- 🔭ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ [𝓞𝓥𝓔𝓡𝓢𝓣𝓞𝓒𝓚 𝓒𝓛𝓞𝓝𝓔](https://overstockk.netlify.app)
 
-- 🌱 I’m currently learning **React**
+- 🌱 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ **React**
 
-- 📝 I regularly write articles on [https://medium.com/@shubhamvumap](https://medium.com/@shubhamvumap)
+- 📝 ɪ ʀᴇɢᴜʟᴀʀʟʏ ᴡʀɪᴛᴇ ᴀʀᴛɪᴄʟᴇꜱ ᴏɴ [https://medium.com/@shubhamvumap](https://medium.com/@shubhamvumap)
 
-- 💬 Ask me about **React**
+- 💬 ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ **React**
 
-- 📫 How to reach me **shubhamvumap@gmail.com**
+- 📫 ℌ𝔬𝔴 𝔱𝔬 𝔯𝔢𝔞𝔠𝔥 𝔪𝔢 **shubhamvumap@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SmnOPfDhBXRRuyHJfD1H0EhNDwyQjJLn/view?usp=sharing](https://drive.google.com/file/d/1SmnOPfDhBXRRuyHJfD1H0EhNDwyQjJLn/view?usp=sharing)
+- 📄 ᴋɴᴏᴡ ᴀʙᴏᴜᴛ ᴍʏ ᴇxᴘᴇʀɪᴇɴᴄᴇꜱ [https://drive.google.com/file/d/1SmnOPfDhBXRRuyHJfD1H0EhNDwyQjJLn/view?usp=sharing](https://drive.google.com/file/d/1SmnOPfDhBXRRuyHJfD1H0EhNDwyQjJLn/view?usp=sharing)
 
-- ⚡ Fun fact **𝓘 𝓽𝓱𝓲𝓷𝓴 𝓘 𝓪𝓶 𝓒𝓸𝓭𝔂**
+- ⚡ 𝕱𝖚𝖓 𝖋𝖆𝖈𝖙    **𝓘 𝓽𝓱𝓲𝓷𝓴 𝓘 𝓪𝓶 𝓒𝓸𝓭𝔂**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
