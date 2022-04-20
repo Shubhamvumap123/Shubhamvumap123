@@ -1,11 +1,24 @@
 <h1 align="center">Hi 👋, I'm 𝓢𝓗𝓤𝓑𝓗𝓐𝓜</h1>
 <h3 align="center">A passionate full Stack Web developer from India</h3>
-
-<p align="left"> <img style="" src="https://komarev.com/ghpvc/?username=shubhamvumap123&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamvumap123" /> </p>
+<div style:" padding: 0.6em 2em;
+  border: none;
+  outline: none;
+  color: rgb(255, 255, 255);
+  background: #111;
+  cursor: pointer;
+  position: relative;
+  z-index: 0;
+  border-radius: 10px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;">
+  <p align="left"> <img style="" src="https://komarev.com/ghpvc/?username=shubhamvumap123&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamvumap123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamvumap123" alt="shubhamvumap123" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/shubhamumap123" target="blank"><img src="https://img.shields.io/twitter/follow/shubhamumap123?logo=twitter&style=for-the-badge" alt="shubhamumap123" /></a> </p>
+  </div>
+
 
 - 🔭 I’m currently working on [𝓞𝓥𝓔𝓡𝓢𝓣𝓞𝓒𝓚 𝓒𝓛𝓞𝓝𝓔](https://overstockk.netlify.app)
 
