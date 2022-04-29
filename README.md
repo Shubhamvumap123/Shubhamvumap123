@@ -6,8 +6,7 @@
         src="https://komarev.com/ghpvc/?username=shubhamvumap123&label=Profile%20views&color=0e75b6&style=flat"
         alt="shubhamvumap123" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=shubhamvumap123" alt="shubhamvumap123" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" alt="shubhamvumap123" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/shubhamumap123" target="blank"><img
             src="https://img.shields.io/twitter/follow/shubhamumap123?logo=twitter&style=for-the-badge"
@@ -46,8 +45,7 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
             alt="@shubhamvumap" height="30" width="40" /></a>
 </p>
-<p>&nbsp;<img align="center" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" alt="shubhamvumap123" />
-</p>
+
 
 <!-- //Languages and Tool -->
 <h3 align="left">Languages and Tools:</h3>
