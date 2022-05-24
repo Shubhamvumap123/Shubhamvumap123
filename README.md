@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm 𝓢𝓗𝓤𝓑𝓗𝓐𝓜</h1>
 <h3 align="center">A passionate full Stack Web developer from India</h3>
 
-<p align="left"> <img style=" color: rgb(255, 255, 255);
+<!-- <p align="left"> <img style=" color: rgb(255, 255, 255);
   background: #111"
         src="https://komarev.com/ghpvc/?username=shubhamvumap123&label=Profile%20views&color=0e75b6&style=flat"
-        alt="shubhamvumap123" /> </p>
+        alt="shubhamvumap123" /> </p> -->
 
 <p align="center"> <img align="center" style="width:1000px" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" alt="shubhamvumap123" /> </p>
 
