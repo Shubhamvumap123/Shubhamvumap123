@@ -6,7 +6,7 @@
         src="https://komarev.com/ghpvc/?username=shubhamvumap123&label=Profile%20views&color=0e75b6&style=flat"
         alt="shubhamvumap123" /> </p>
 
-<p align="center"> <img align="center" style="width:1000px" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" alt="shubhamvumap123" /> </p>
+<!-- <p align="center"> <img align="center" style="width:1000px" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" alt="shubhamvumap123" /> </p> -->
 
 <p align="left"> <a href="https://twitter.com/shubhamumap123" target="blank"><img
             src="https://img.shields.io/twitter/follow/shubhamumap123?logo=twitter&style=for-the-badge"
