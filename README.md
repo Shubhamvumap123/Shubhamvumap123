@@ -12,15 +12,11 @@
             src="https://img.shields.io/twitter/follow/shubhamumap123?logo=twitter&style=for-the-badge"
             alt="shubhamumap123" /></a> </p>
 
-
-
-- 🔭ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ [𝓞𝓥𝓔𝓡𝓢𝓣𝓞𝓒𝓚 𝓒𝓛𝓞𝓝𝓔](https://overstockk.netlify.app)
-
-- 🌱 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ **React**
+- 🔭ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ [BobbiBrown clone](https://bobbibrown.vercel.app/)
 
 - 📝 ɪ ʀᴇɢᴜʟᴀʀʟʏ ᴡʀɪᴛᴇ ᴀʀᴛɪᴄʟᴇꜱ ᴏɴ [https://medium.com/@shubhamvumap](https://medium.com/@shubhamvumap)
 
-- 💬 ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ **React**
+- 💬 ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ **MERN & DSA**
 
 - 📫 ℌ𝔬𝔴 𝔱𝔬 𝔯𝔢𝔞𝔠𝔥 𝔪𝔢 **shubhamvumap@gmail.com**
 
