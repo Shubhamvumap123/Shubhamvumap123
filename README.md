@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">A passionate full Stack Web developer from India</h3>
 
- <a href="https://github.com/Shubhamvumap123/Shubhamvumap123">
-        <img src="https://komarev.com/ghpvc/?username=rajoleanil75" alt="rajoleanil75" />
-    </a>
-
 <!-- <p align="center"> <img align="center" style="width:1000px" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" alt="shubhamvumap123" /> </p> -->
 
 <p align="left"> <a href="https://twitter.com/shubhamumap123" target="blank"><img
