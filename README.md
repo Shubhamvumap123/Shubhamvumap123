@@ -11,14 +11,14 @@
 
 - 🔭ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ [BobbiBrown clone](https://bobbibrown.vercel.app/)
 
-- 📝 ɪ ʀᴇɢᴜʟᴀʀʟʏ ᴡʀɪᴛᴇ ᴀʀᴛɪᴄʟᴇꜱ ᴏɴ [https://medium.com/@shubhamvumap](https://medium.com/@shubhamvumap)
+- 📝 ɪ ʀᴇɢᴜʟᴀʀʟʏ ᴡʀɪᴛᴇ ᴀʀᴛɪᴄʟᴇꜱ ᴏɴ [Blog ](https://medium.com/@shubhamvumap)
 
 - 💬 ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ **MERN & DSA**
 
 - 📫 How to reach me **shubhamvumap@gmail.com**
 
 - 📄 ᴋɴᴏᴡ ᴀʙᴏᴜᴛ ᴍʏ ᴇxᴘᴇʀɪᴇɴᴄᴇꜱ
-[https://drive.google.com/file/d/1SmnOPfDhBXRRuyHJfD1H0EhNDwyQjJLn/view?usp=sharing](https://drive.google.com/file/d/1SmnOPfDhBXRRuyHJfD1H0EhNDwyQjJLn/view?usp=sharing)
+[MERN_Developer](https://drive.google.com/file/d/1vDe7ZT7PrqKO6RSkWnhD8h2FwXU2Xisq/view?usp=sharing)
 
 - ⚡ Fun fact **now you know 40% about be.. Want to know more? I am just one DM away**
 
