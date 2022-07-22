@@ -18,7 +18,7 @@
 
 - 💬 ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ **MERN & DSA**
 
-- 📫 ℌ𝔬𝔴 𝔱𝔬 𝔯𝔢𝔞𝔠𝔥 𝔪𝔢 **shubhamvumap@gmail.com**
+- 📫 How to reach me **shubhamvumap@gmail.com**
 
 - 📄 ᴋɴᴏᴡ ᴀʙᴏᴜᴛ ᴍʏ ᴇxᴘᴇʀɪᴇɴᴄᴇꜱ
 [https://drive.google.com/file/d/1SmnOPfDhBXRRuyHJfD1H0EhNDwyQjJLn/view?usp=sharing](https://drive.google.com/file/d/1SmnOPfDhBXRRuyHJfD1H0EhNDwyQjJLn/view?usp=sharing)
