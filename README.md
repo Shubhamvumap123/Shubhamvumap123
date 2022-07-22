@@ -18,7 +18,7 @@
 - 📄 ᴋɴᴏᴡ ᴀʙᴏᴜᴛ ᴍʏ ᴇxᴘᴇʀɪᴇɴᴄᴇꜱ
 [MERN_Developer](https://drive.google.com/file/d/1vDe7ZT7PrqKO6RSkWnhD8h2FwXU2Xisq/view?usp=sharing)
 
-- ⚡ Fun fact **now you know 40% about be.. Want to know more? I am just one DM away**
+- ⚡ Fun fact **[now you know 40% about be.. Want to know more? I am just one DM away](https://www.linkedin.com/in/shubham-umap-/)**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
