@@ -7,7 +7,7 @@
             src="https://img.shields.io/twitter/follow/shubhamumap123?logo=twitter&style=for-the-badge"
             alt="shubhamumap123" /></a> </p>
 
-- 🔭ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ [BobbiBrown clone](https://bobbibrown.vercel.app/)
+- 🔭ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ [BobbiBrown Website](https://bobbibrown.vercel.app/)
 
 - 📝 ɪ ʀᴇɢᴜʟᴀʀʟʏ ᴡʀɪᴛᴇ ᴀʀᴛɪᴄʟᴇꜱ ᴏɴ [Blog ](https://medium.com/@shubhamvumap)
 
