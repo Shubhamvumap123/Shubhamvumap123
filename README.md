@@ -11,7 +11,7 @@
 
 - 📝 ɪ ʀᴇɢᴜʟᴀʀʟʏ ᴡʀɪᴛᴇ ᴀʀᴛɪᴄʟᴇꜱ ᴏɴ [Blog ](https://medium.com/@shubhamvumap)
 
-- 💬 ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ **MERN & DSA**
+- 💬 ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ **Full Stack Developer **
 
 - 📫 How to reach me **shubhamvumap@gmail.com**
 
