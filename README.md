@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 𝓢𝓗𝓤𝓑𝓗𝓐𝓜</h1>
+<h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">A passionate full Stack Web developer from India</h3>
 
 <p align="left"> <img style=" color: rgb(255, 255, 255);
@@ -23,7 +23,7 @@
 - 📄 ᴋɴᴏᴡ ᴀʙᴏᴜᴛ ᴍʏ ᴇxᴘᴇʀɪᴇɴᴄᴇꜱ
 [https://drive.google.com/file/d/1SmnOPfDhBXRRuyHJfD1H0EhNDwyQjJLn/view?usp=sharing](https://drive.google.com/file/d/1SmnOPfDhBXRRuyHJfD1H0EhNDwyQjJLn/view?usp=sharing)
 
-- ⚡ 𝕱𝖚𝖓 𝖋𝖆𝖈𝖙 **𝓘 𝓽𝓱𝓲𝓷𝓴 𝓘 𝓪𝓶 𝓒𝓸𝓭𝔂**
+- ⚡ Fun fact **now you know 40% about be.. Want to know more? I am just one DM away**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -94,6 +94,6 @@
 </div><br /><br />
 
 
-##𝓢𝓷𝓪𝓴𝓮 𝓮𝓪𝓽𝓲𝓷𝓰 𝓶𝔂 𝓬𝓸𝓷𝓽𝓻𝓲𝓫𝓾𝓽𝓲𝓸𝓷 𝓰𝓻𝓪𝓹𝓱
+##Snake eating my contributions 
 
 ![snake gif](https://github.com/Shubhamvumap123/Shubhamvumap123/blob/output/github-contribution-grid-snake.gif)
