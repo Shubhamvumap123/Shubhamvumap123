@@ -3,9 +3,9 @@
 <p>Studied  at Masai School. I have mostly worked with MERN , good at React and Redux on the frontend Side. I have also worked on Express , Mongodb and Node Js on the backend. I am passionate about dealing with complex tasks and approaching difficult problems.I have worked on several demanded projects so far. Enthusiastically keen about working on optimization problems from Data structures and Algorithms .</p>
 <!-- <p align="center"> <img align="center" style="width:100px" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" alt="shubhamvumap123" /> </p> -->
 
-<p align="left"> <a href="https://twitter.com/shubhamumap123" target="blank"><img
+<!--<p align="left"> <a href="https://twitter.com/shubhamumap123" target="blank"><img
             src="https://img.shields.io/twitter/follow/shubhamumap123?logo=twitter&style=for-the-badge"
-            alt="shubhamumap123" /></a> </p>
+            alt="shubhamumap123" /></a> </p>-->
 
 - 🔭ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ [BobbiBrown Website](https://bobbibrown.vercel.app/)
 
