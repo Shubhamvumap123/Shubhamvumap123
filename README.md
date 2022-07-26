@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 <p>Studied  at Masai School. I have mostly worked with MERN , good at React and Redux on the frontend Side. I have also worked on Express , Mongodb and Node Js on the backend. I am passionate about dealing with complex tasks and approaching difficult problems.I have worked on several demanded projects so far. Enthusiastically keen about working on optimization problems from Data structures and Algorithms .</p>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
 <!-- <p align="center"> <img align="center" style="width:100px" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" alt="shubhamvumap123" /> </p> -->
 
 <!--<p align="left"> <a href="https://twitter.com/shubhamumap123" target="blank"><img
@@ -20,7 +24,11 @@
 
 - ⚡ Fun fact **[now you know 40% about be.. Want to know more? I am just one DM away](https://www.linkedin.com/in/shubham-umap-/)**
 
-### Blogs posts
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
+<!--### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -36,6 +44,8 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
             alt="@shubhamvumap" height="30" width="40" /></a>
 </p>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
 <!-- //Languages and Tool -->
@@ -68,6 +78,8 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
             width="40" height="40" /> </a>
 </p>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <b>My GitHub Stats</b>
 
