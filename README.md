@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
-<p>Studied  at Masai School. I have mostly worked with MERN , good at React and Redux on the frontend Side. I have also worked on Express , Mongodb and Node Js on the backend. I am passionate about dealing with complex tasks and approaching difficult problems.I have worked on several demanded projects so far. Enthusiastically keen about working on optimization problems from Data structures and Algorithms .</p>
+<p> I have mostly worked with MERN , good at React and Redux on the frontend Side. I have also worked on Express , Mongodb and Node Js on the backend. I am passionate about dealing with complex tasks and approaching difficult problems.I have worked on several demanded projects so far. Enthusiastically keen about working on optimization problems from Data structures and Algorithms .</p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
