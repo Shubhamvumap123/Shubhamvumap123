@@ -22,7 +22,7 @@
 - 📄 ᴋɴᴏᴡ ᴀʙᴏᴜᴛ ᴍʏ ᴇxᴘᴇʀɪᴇɴᴄᴇꜱ
 [MERN_Developer](https://drive.google.com/file/d/1vDe7ZT7PrqKO6RSkWnhD8h2FwXU2Xisq/view?usp=sharing)
 
-- ⚡ Fun fact **[now you know 40% about be.. Want to know more? I am just one DM away](https://www.linkedin.com/in/shubham-umap-/)**
+- ⚡ Fun fact **[now you know 40% about me.. Want to know more? I am just one DM away](https://www.linkedin.com/in/shubham-umap-/)**
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
