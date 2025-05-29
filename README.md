@@ -1,34 +1,171 @@
-<h1 align="center">Hi 👋, I'm Shubham</h1>
-<h3 align="center">A passionate MERN developer from India</h3>
-<p> I have mostly worked with MERN , good at React and Redux on the frontend Side. I have also worked on Express , Mongodb and Node Js on the backend. I am passionate about dealing with complex tasks and approaching difficult problems.I have worked on several demanded projects so far. Enthusiastically keen about working on optimization problems from Data structures and Algorithms .</p>
+<!-- Animated Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Shubham+Umap;Full+Stack+Developer+%7C+React+%26+Node+Enthusiast;Building+Cool+Stuff+%E2%9C%A8;Let's+Code+Something+Amazing!+%F0%9F%94%A5" alt="Typing SVG" />
+</p>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+---
 
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
 
-<!-- <p align="center"> <img align="center" style="width:100px" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" alt="shubhamvumap123" /> </p> -->
+### 👨‍💻 About Me
 
-<!--<p align="left"> <a href="https://twitter.com/shubhamumap123" target="blank"><img
-            src="https://img.shields.io/twitter/follow/shubhamumap123?logo=twitter&style=for-the-badge"
-            alt="shubhamumap123" /></a> </p>-->
+- 🚀 Full Stack Developer passionate about crafting seamless web experiences.
+- 💡 I specialize in **JavaScript, TypeScript, React, Node.js, Express, MongoDB, HTML & CSS**.
+- 🛠️ Always curious about new tech, creative hacks, and productivity tricks.
+- 🌱 Currently leveling up with cloud and backend engineering!
 
-- 🔭ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ [BobbiBrown Website](https://bobbibrown.vercel.app/)
+---
 
-- 📝 ɪ ʀᴇɢᴜʟᴀʀʟʏ ᴡʀɪᴛᴇ ᴀʀᴛɪᴄʟᴇꜱ ᴏɴ [Blog ](https://medium.com/@shubhamvumap)
+### 🔥 My Tech Stack
 
-- 💬 ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ **Full Stack Developments **
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=222)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=222)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
+![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
 
-- 📫 How to reach me **shubhamvumap@gmail.com**
+---
 
-- 📄 ᴋɴᴏᴡ ᴀʙᴏᴜᴛ ᴍʏ ᴇxᴘᴇʀɪᴇɴᴄᴇꜱ
-[MERN_Developer](https://drive.google.com/file/d/1vDe7ZT7PrqKO6RSkWnhD8h2FwXU2Xisq/view?usp=sharing)
+### 🚩 Featured Projects
 
-- ⚡ Fun fact **[now you know 40% about me.. Want to know more? I am just one DM away](https://www.linkedin.com/in/shubham-umap-/)**
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Overstock](https://github.com/Shubhamvumap123/Overstock) | Overstock is the future of online booking—they have products ranging from flight booking to flat booking. | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff) |
+| [Project_Expedia_Masai](https://github.com/Shubhamvumap123/Project_Expedia_Masai) | Expedia is one of the fastest-growing online travel portals in Asia, offering a vast selection of hotels, activities, and travel services. | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff) |
+| [imkeshav98/bobbibrown](https://github.com/imkeshav98/bobbibrown) | Collaborative project to create a clone of bobbibrown.com as part of the MASAI School curriculum. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=222) |
+| [Shooting_Game](https://github.com/Shubhamvumap123/Shooting_Game) | Simple shooting game built with JavaScript—try it out for fun! | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=222) |
+| [to_do](https://github.com/Shubhamvumap123/to_do) | A Todo app where you can create tasks and manage them between pending and done states. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff) |
 
-- ⚡ RoadMap **[.....](https://roadmap.sh/)**
-- **[React_Resources](https://reactresources.com/topics/best-practices)**
+> _See more projects on my [GitHub profile](https://github.com/Shubhamvumap123?tab=repositories)!_
 
+---
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+### ⚡ Fun Facts, Tips & Quotes
+
+- 🕹️ **Did you know?**  
+  You can add a profile README to your GitHub for a personal touch—like this one!  
+  (Just create a repo with your username as its name and add a README.md.)
+
+- 💡 **Quick VS Code Hack:**  
+  Press `Ctrl + Shift + P` and type "Toggle Word Wrap" to keep your code readable!
+
+- 🧩 **Favorite Quote:**  
+  > “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+
+- 🧑‍🎨 **Fun Hobby:**  
+  I love building browser games and exploring creative web animations.
+
+---
+
+### 🌎 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-shubham--umap--blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-umap-/)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubhamvumap123&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamvumap123&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+<!-- Cool animated snake eating contributions (unknown by many!) -->
+<p align="center">
+  <img src="https://github.com/Shubhamvumap123/Shubhamvumap123/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+---
+
+## 🧙‍♂️ Interactive & Fun: Explore More
+
+<details>
+  <summary>✨ <b>Random Dev Joke</b> (Click to expand)</summary>
+  <blockquote>
+    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Joke" />
+  </blockquote>
+</details>
+
+---
+
+### 📊 Coding Activity
+
+<!-- Wakatime stats (requires Wakatime setup) -->
+[![wakatime](https://wakatime.com/badge/user/your-wakatime-id.svg)](https://wakatime.com/@your-wakatime-id)
+<!-- Replace 'your-wakatime-id' with your actual Wakatime user ID -->
+
+![Shubham's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-id&layout=compact&theme=tokyonight)
+<!-- Replace 'your-wakatime-id' with your Wakatime username -->
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shubhamvumap123&theme=tokyonight&margin-w=12" />
+</p>
+
+---
+
+### 🗺️ Where I've Been (World Map)
+
+<p align="center">
+  <img src="https://github.com/platane/platane/raw/output/github-contribution-grid-snake.svg" alt="snake gif">
+</p>
+<!-- For a world map, use https://github.com/denvercoder1/github-readme-streak-stats#github-readme-streak-stats -->
+
+---
+
+### 📫 Fun Ways to Connect
+
+- 💬 Ask me anything in [GitHub Discussions](https://github.com/Shubhamvumap123/Shubhamvumap123/discussions)
+- 🕹️ Try my browser games above!
+- 🧩 Want to collaborate? [Open an issue](https://github.com/Shubhamvumap123/Shubhamvumap123/issues/new)
+
+---
+
+### 🛠️ Custom Tools & Widgets
+
+<!-- GitHub Profile Views Counter -->
+![Profile views](https://komarev.com/ghpvc/?username=Shubhamvumap123&color=blue&style=flat)
+
+<!-- Visitor Badge -->
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Shubhamvumap123.visitor-badge)
+
+---
+
+### 🚀 Fun & Secret Section
+
+<details>
+  <summary>🪄 <b>Click for a surprise open-source tip!</b></summary>
+  <blockquote>
+    <b>Did you know?</b>  
+    You can use <code>git rebase -i HEAD~n</code> to interactively edit your last n commits—perfect for cleaning up commit history before pushing!
+  </blockquote>
+</details>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+---
+
+⭐️ _Thanks for visiting my profile! Let's innovate together._ ⭐️
+
+<!--
+References:
+- Typing SVG: https://readme-typing-svg.demolab.com/
+- GIF: https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
+- Contribution Snake: https://github.com/Platane/snk
+- Jokes: https://github.com/ABSphreak/readme-jokes
+- Trophies: https://github.com/ryo-ma/github-profile-trophy
+- Wakatime: https://github.com/anuraghazra/github-readme-stats
+- Visitor Badge: https://github.com/jwenjian/visitor-badge
+- Capsule Render: https://github.com/kyechan99/capsule-render
+-->
 
 
 <!--### Blogs posts-->
