@@ -37,7 +37,7 @@
 | [Project_Expedia_Masai](https://github.com/Shubhamvumap123/Project_Expedia_Masai) | Expedia is one of the fastest-growing online travel portals in Asia, offering a vast selection of hotels, activities, and travel services. | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff) |
 | [imkeshav98/bobbibrown](https://github.com/imkeshav98/bobbibrown) | Collaborative project to create a clone of bobbibrown.com as part of the MASAI School curriculum. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=222) |
 | [Shooting_Game](https://github.com/Shubhamvumap123/Shooting_Game) | Simple shooting game built with JavaScript—try it out for fun! | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=222) |
-| [to_do](https://github.com/Shubhamvumap123/to_do) | A Todo app where you can create tasks and manage them between pending and done states. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff) |
+| [to_do](https://github.com/Shubhamvumap123/to_do_) | A Todo app where you can create tasks and manage them between pending and done states. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff) |
 
 > _See more projects on my [GitHub profile](https://github.com/Shubhamvumap123?tab=repositories)!_
 
