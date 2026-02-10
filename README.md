@@ -16,21 +16,23 @@
 
 ---
 
-### 🔥 My Tech Stack
+<h3 align="center">🔥 My Tech Stack</h3>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=222)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=222)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
-![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=flat&logo=babel&logoColor=black)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=222" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=222" alt="React" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Express-000?style=flat&logo=express&logoColor=fff" alt="Express" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/-Babel-F9DC3E?style=flat&logo=babel&logoColor=black" alt="Babel" />
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux" />
+</p>
 
 ---
 
@@ -65,17 +67,19 @@
 
 ---
 
-### 🌎 Let's Connect
+<h3 align="center">🌎 Let's Connect</h3>
 
-[![LinkedIn](https://img.shields.io/badge/-shubham--umap--blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-umap-/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/shubhamumap123)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@shubhamvumap)
+<p align="center">
+  <a href="https://www.linkedin.com/in/shubham-umap-/"><img src="https://img.shields.io/badge/-shubham--umap--blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/shubhamumap123"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://medium.com/@shubhamvumap"><img src="https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubhamvumap123&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamvumap123&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats-ochre-two.vercel.app/api?username=Shubhamvumap123&show_icons=true&theme=tokyonight" height="160" alt="Shubhamvumap123's GitHub stats" />
+  <img src="https://github-readme-stats-ochre-two.vercel.app/api/top-langs/?username=Shubhamvumap123&layout=compact&theme=tokyonight" height="160" alt="Top Languages" />
 </p>
 
 <!-- Cool animated snake eating contributions -->
@@ -96,14 +100,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shubhamvumap123&theme=tokyonight&margin-w=12" />
-</p>
-
----
-
 ### 📫 Fun Ways to Connect
 
 - 💬 Ask me anything in [GitHub Discussions](https://github.com/Shubhamvumap123/Shubhamvumap123/discussions)
@@ -115,10 +111,12 @@
 ### 🛠️ Custom Tools & Widgets
 
 <!-- GitHub Profile Views Counter -->
-![Profile views](https://komarev.com/ghpvc/?username=Shubhamvumap123&color=blue&style=flat)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Shubhamvumap123&color=blue&style=flat" alt="Profile views" />
+  <!-- Visitor Badge -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shubhamvumap123.visitor-badge" alt="Visitor Badge" />
+</p>
 
-<!-- Visitor Badge -->
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Shubhamvumap123.visitor-badge)
 
 ---
 
@@ -140,4 +138,4 @@
 
 ---
 
-⭐️ _Thanks for visiting my profile! Let's innovate together._ ⭐️
+<p align="center">⭐️ _Thanks for visiting my profile! Let's innovate together._ ⭐️</p>
