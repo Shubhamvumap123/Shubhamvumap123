@@ -65,14 +65,6 @@
 
 ---
 
-### 🌎 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-shubham--umap--blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-umap-/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/shubhamumap123)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@shubhamvumap)
-
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shubhamvumap123&show_icons=true&theme=tokyonight" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamvumap123&layout=compact&theme=tokyonight" height="160"/>
