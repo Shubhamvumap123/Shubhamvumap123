@@ -1,6 +1,6 @@
 <!-- Animated Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Shubham+Umap;Full+Stack+Developer+%7C+React+%26+Node+Enthusiast;Building+Cool+Stuff+%E2%9C%A8;Let's+Code+Something+Amazing!+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Shubham+Umap;Full+Stack+Developer+%7C+React+%26+Node+Enthusiast;Building+Cool+Stuff+%E2%9C%A8;Let's+Code+Something+Amazing!+%F0%9F%94%A5" alt="Typing animation: Hi 👋, I'm Shubham Umap; Full Stack Developer | React & Node Enthusiast; Building Cool Stuff ✨; Let's Code Something Amazing! 🔥" />
 </p>
 
 ---
@@ -18,6 +18,8 @@
 
 ### 🔥 My Tech Stack
 
+<p align="center">
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=222)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=222)
@@ -31,6 +33,8 @@
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+
+</p>
 
 ---
 
@@ -66,8 +70,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubhamvumap123&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamvumap123&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats-ochre-two.vercel.app/api?username=Shubhamvumap123&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats-ochre-two.vercel.app/api/top-langs/?username=Shubhamvumap123&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 <!-- Cool animated snake eating contributions -->
@@ -110,7 +114,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Shubhamvumap123&color=blue&style=flat)
 
 <!-- Visitor Badge -->
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Shubhamvumap123.visitor-badge)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Shubhamvumap123.visitor-badge)
 
 ---
 
@@ -127,7 +131,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="" />
 </p>
 
 ---
