@@ -110,7 +110,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Shubhamvumap123&color=blue&style=flat)
 
 <!-- Visitor Badge -->
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Shubhamvumap123.visitor-badge)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Shubhamvumap123.visitor-badge)
 
 ---
 
