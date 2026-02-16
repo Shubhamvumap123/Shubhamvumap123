@@ -72,7 +72,7 @@
 
 <!-- Cool animated snake eating contributions -->
 <p align="center">
-  <img src="https://github.com/Shubhamvumap123/Shubhamvumap123/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/Shubhamvumap123/Shubhamvumap123/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ---
@@ -110,7 +110,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Shubhamvumap123&color=blue&style=flat)
 
 <!-- Visitor Badge -->
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Shubhamvumap123.visitor-badge)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Shubhamvumap123.visitor-badge)
 
 ---
 
