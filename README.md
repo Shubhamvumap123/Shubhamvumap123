@@ -1,6 +1,6 @@
 <!-- Animated Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Shubham+Umap;Full+Stack+Developer+%7C+React+%26+Node+Enthusiast;Building+Cool+Stuff+%E2%9C%A8;Let's+Code+Something+Amazing!+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Shubham+Umap;Full+Stack+Developer+%7C+React+%26+Node+Enthusiast;Building+Cool+Stuff+%E2%9C%A8;Let's+Code+Something+Amazing!+%F0%9F%94%A5" alt="Animated introduction: Hi, I'm Shubham Umap; Full Stack Developer | React & Node Enthusiast; Building Cool Stuff ✨; Let's Code Something Amazing! 🔥" />
 </p>
 
 ---
@@ -18,19 +18,21 @@
 
 ### 🔥 My Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=222)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=222)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
-![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=flat&logo=babel&logoColor=black)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=222" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=222" alt="React" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Express-000?style=flat&logo=express&logoColor=fff" alt="Express" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff" alt="HTML" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff" alt="CSS" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/-Babel-F9DC3E?style=flat&logo=babel&logoColor=black" alt="Babel" />
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux" />
+</p>
 
 ---
 
@@ -66,13 +68,13 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubhamvumap123&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamvumap123&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats-ochre-two.vercel.app/api?username=Shubhamvumap123&show_icons=true&theme=tokyonight" alt="Shubham's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats-ochre-two.vercel.app/api/top-langs/?username=Shubhamvumap123&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
 
 <!-- Cool animated snake eating contributions -->
 <p align="center">
-  <img src="https://github.com/Shubhamvumap123/Shubhamvumap123/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/Shubhamvumap123/Shubhamvumap123/raw/output/github-contribution-grid-snake.svg" alt="Snake animation of contribution graph" />
 </p>
 
 ---
@@ -91,7 +93,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shubhamvumap123&theme=tokyonight&margin-w=12" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shubhamvumap123&theme=tokyonight&margin-w=12" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -110,7 +112,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Shubhamvumap123&color=blue&style=flat)
 
 <!-- Visitor Badge -->
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Shubhamvumap123.visitor-badge)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Shubhamvumap123.visitor-badge)
 
 ---
 
@@ -127,7 +129,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt=""/>
 </p>
 
 ---
