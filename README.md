@@ -63,19 +63,6 @@
 - 🧑‍🎨 **Fun Hobby:**  
   I love building browser games and exploring creative web animations.
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubhamvumap123&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamvumap123&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
-<!-- Cool animated snake eating contributions -->
-<p align="center">
-  <img src="https://github.com/Shubhamvumap123/Shubhamvumap123/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
----
 
 ## 🧙‍♂️ Interactive & Fun: Explore More
 
@@ -86,15 +73,6 @@
   </blockquote>
 </details>
 
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shubhamvumap123&theme=tokyonight&margin-w=12" />
-</p>
-
----
 
 ### 📫 Fun Ways to Connect
 
@@ -108,10 +86,6 @@
 
 <!-- GitHub Profile Views Counter -->
 ![Profile views](https://komarev.com/ghpvc/?username=Shubhamvumap123&color=blue&style=flat)
-
-<!-- Visitor Badge -->
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Shubhamvumap123.visitor-badge)
-
 ---
 
 ### 🚀 Fun & Secret Section
