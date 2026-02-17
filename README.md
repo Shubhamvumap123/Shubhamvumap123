@@ -1,11 +1,11 @@
 <!-- Animated Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Shubham+Umap;Full+Stack+Developer+%7C+React+%26+Node+Enthusiast;Building+Cool+Stuff+%E2%9C%A8;Let's+Code+Something+Amazing!+%F0%9F%94%A5" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&duration=500&pause=1799&background=7C7C7C00&center=true&vCenter=true&random=true&width=1000&height=80&lines=Frontend+Developer+at+Tridiagonal;MERN+Stack+Developer+at+Ncircle;Full+Stack+Developer+at+Applore+" alt="Typing SVG" /></a>
 </p>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
 
 ### 👨‍💻 About Me
 
