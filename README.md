@@ -2,8 +2,9 @@
 <a href="https://www.linkedin.com/in/shubham-umap-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align: -10px;" alt="LinkedIn"/></a>
 <br clear="all" />
 <!-- Animated Typing Effect -->
+<!-- Using demolab.com for better performance and uptime compared to herokuapp.com -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&duration=500&pause=1799&background=7C7C7C00&center=true&vCenter=true&random=true&width=1000&height=80&lines=Frontend+Developer+at+Tridiagonal;MERN+Stack+Developer+at+Ncircle;Full+Stack+Developer+at+Applore+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&duration=500&pause=1799&background=7C7C7C00&center=true&vCenter=true&random=true&width=1000&height=80&lines=Frontend+Developer+at+Tridiagonal;MERN+Stack+Developer+at+Ncircle;Full+Stack+Developer+at+Applore+" alt="Typing SVG" /></a>
 </p>
 
 ---
