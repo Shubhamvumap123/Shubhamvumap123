@@ -1,14 +1,16 @@
+<p align="center">
 <a href="https://cal.com/shubham-umap"><img src="https://img.shields.io/badge/Book_a_Call-758e4f?style=for-the-badge&logo=calendly&logoColor=white" style="vertical-align: -10px;" alt="Cal.com"/></a>
 <a href="https://www.linkedin.com/in/shubham-umap-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align: -10px;" alt="LinkedIn"/></a>
+</p>
 <br clear="all" />
 <!-- Animated Typing Effect -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&duration=500&pause=1799&background=7C7C7C00&center=true&vCenter=true&random=true&width=1000&height=80&lines=Frontend+Developer+at+Tridiagonal;MERN+Stack+Developer+at+Ncircle;Full+Stack+Developer+at+Applore+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&duration=500&pause=1799&background=7C7C7C00&center=true&vCenter=true&random=true&width=1000&height=80&lines=Frontend+Developer+at+Tridiagonal;MERN+Stack+Developer+at+Ncircle;Full+Stack+Developer+at+Applore+" alt="Typing SVG" /></a>
 </p>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding GIF" />
 
 ### 👨‍💻 About Me
 
@@ -21,19 +23,21 @@
 
 ### 🔥 My Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=222)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=222)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
-![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=flat&logo=babel&logoColor=black)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=222" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=222" alt="React" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Express-000?style=flat&logo=express&logoColor=fff" alt="Express" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff" alt="HTML" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff" alt="CSS" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/-Babel-F9DC3E?style=flat&logo=babel&logoColor=black" alt="Babel" />
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux" />
+</p>
 
 ---
 
@@ -104,7 +108,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave"/>
 </p>
 
 ---
