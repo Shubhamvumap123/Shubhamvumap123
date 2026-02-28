@@ -1,0 +1,4 @@
+## 2024-05-18 - GitHub Actions Supply Chain & Least Privilege Vulnerabilities
+**Vulnerability:** The `.github/workflows/main.yml` file used mutable tags (e.g., `@v2`, `@master`) for GitHub Actions and lacked explicit `permissions` defined at the job or workflow level.
+**Learning:** This introduces a supply chain vulnerability, as a tag can be moved to point to a malicious commit without warning. Additionally, relying on default implicit permissions violates the principle of least privilege, giving the workflow broader access to the repository than necessary. The action pushes artifacts back to the repository and explicitly requires `contents: write`.
+**Prevention:** Pin all third-party GitHub Actions to immutable commit SHAs instead of mutable tags or branches. Always declare explicit `permissions` blocks for jobs or workflows, and document why elevated permissions (like `contents: write`) are required.
