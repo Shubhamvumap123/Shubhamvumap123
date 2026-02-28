@@ -1,0 +1,3 @@
+## 2024-02-28 - Accessible Dynamic SVGs in Markdown
+**Learning:** Text-generating dynamic SVGs (like `readme-typing-svg`) in Markdown environments require manually constructed `alt` texts derived from their URL parameters. A generic label (like "Typing SVG") fails to convey the actual text content to screen readers, creating an accessibility barrier.
+**Action:** When implementing or updating dynamic SVGs that render text, always ensure the `alt` text attribute explicitly describes the text content being generated (e.g., extracting the `lines` parameter from the URL).
