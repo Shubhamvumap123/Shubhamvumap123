@@ -1,0 +1,3 @@
+## 2024-05-24 - Dynamic SVG Accessibility
+**Learning:** Text-generating dynamic SVGs (like `readme-typing-svg`) require manual construction of the `alt` text to accurately describe the generated text content. Generic labels like "Typing SVG" are not accessible to screen readers, which cannot read the text within an SVG image tag. Additionally, decorative images like GIFs and footer SVGs must include descriptive `alt` text for proper accessibility.
+**Action:** When adding or reviewing text-generating dynamic SVGs, manually extract the text content (e.g., from the URL parameters) and use it as the `alt` text. Ensure all decorative images have meaningful `alt` text describing their purpose or visual content.
