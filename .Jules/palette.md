@@ -1,0 +1,3 @@
+## 2024-05-24 - Dynamic SVG Accessibility and Visual Hierarchy
+**Learning:** Text-generating dynamic SVGs (like `readme-typing-svg`) require manual construction of `alt` text from URL parameters, as their API response lacks native accessibility features and begins with an HTML comment rather than an `<svg>` tag. Additionally, mixing top-level anchor badges with centered layouts creates visual inconsistency.
+**Action:** Always wrap top-level markdown badge lists in `<p align='center'>` using HTML `<img>` tags for inline rendering, and construct descriptive `alt` text for all dynamic images (stats, graphs, badges) to ensure screen reader accessibility.
