@@ -1,0 +1,3 @@
+## 2024-05-24 - Dynamic SVG Accessibility in READMEs
+**Learning:** For text-generating dynamic SVGs (like `readme-typing-svg`), generic alt text like "Typing SVG" creates an inaccessible experience for screen reader users since they miss the actual content being displayed.
+**Action:** Always extract the text parameters from the dynamic SVG URL (e.g., the `lines` query parameter) and use them to construct descriptive `alt` text.
