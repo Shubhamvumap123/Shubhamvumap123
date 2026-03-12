@@ -4,7 +4,8 @@
 <br clear="all" />
 <!-- Animated Typing Effect -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&duration=500&pause=1799&background=7C7C7C00&center=true&vCenter=true&random=true&width=1000&height=80&lines=Frontend+Developer+at+Tridiagonal;MERN+Stack+Developer+at+Ncircle;Full+Stack+Developer+at+Applore+" alt="Typing SVG" /></a>
+<!-- Optimized: Replaced deprecated git.io with canonical URL and migrated Heroku URL to Cloudflare CDN (demolab.com) for faster HTTP/2 loading and zero cold-starts -->
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&duration=500&pause=1799&background=7C7C7C00&center=true&vCenter=true&random=true&width=1000&height=80&lines=Frontend+Developer+at+Tridiagonal;MERN+Stack+Developer+at+Ncircle;Full+Stack+Developer+at+Applore+" alt="Typing SVG" /></a>
 </p>
 
 ---
