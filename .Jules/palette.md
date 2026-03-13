@@ -1,0 +1,3 @@
+## 2024-05-20 - Dynamic SVG Accessibility
+**Learning:** Text-generating dynamic SVGs (like `readme-typing-svg`) require manually constructed `alt` text extracted from their URL parameters, rather than generic labels, to ensure screen readers convey the actual text content accurately.
+**Action:** Always extract text from the URL parameters of dynamic SVG endpoints to construct descriptive `alt` text for images.
