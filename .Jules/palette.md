@@ -1,0 +1,3 @@
+## 2024-03-14 - Text-Generating SVG Accessibility
+**Learning:** Text-generating dynamic SVGs (like `readme-typing-svg`) return API responses that don't inherently provide text for screen readers, and using a generic label like "Typing SVG" fails to convey the actual content being displayed to the user.
+**Action:** The `alt` text must be manually constructed to describe the exact text content (e.g., extracting the `lines` parameter from the URL) rather than using a generic label.
