@@ -1,6 +1,8 @@
 
+<p align="center">
 <a href="https://cal.com/shubham-umap"><img src="https://img.shields.io/badge/Book_a_Call-758e4f?style=for-the-badge&logo=calendly&logoColor=white" style="vertical-align: -10px;" alt="Cal.com"/></a>
 <a href="https://www.linkedin.com/in/shubham-umap-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align: -10px;" alt="LinkedIn"/></a>
+</p>
 <br clear="all" />
 <!-- Animated Typing Effect -->
 <!-- ⚡ Bolt: Migrated to demolab.com CDN to avoid Heroku cold starts and improve load time -->
@@ -90,7 +92,7 @@
 ### 🛠️ Custom Tools & Widgets
 
 <!-- GitHub Profile Views Counter -->
-![Profile views](https://komarev.com/ghpvc/?username=Shubhamvumap123&color=blue&style=flat)
+![Profile views count](https://komarev.com/ghpvc/?username=Shubhamvumap123&color=blue&style=flat)
 ---
 
 ### 🚀 Fun & Secret Section
