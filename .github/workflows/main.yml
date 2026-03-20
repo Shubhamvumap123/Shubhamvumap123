@@ -24,6 +24,10 @@ jobs:
     permissions:
       contents: write # Required for pushing artifacts to the repository
 
+    # Sentinel: 'contents: write' is required for pushing to master and output branches.
+    permissions:
+      contents: write
+
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
 
