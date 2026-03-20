@@ -13,6 +13,10 @@ on:
 # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
 
+# Security: Restrict permissions to minimum required (contents: write for pushing changes)
+permissions:
+  contents: write
+
 # The sequence of runs in this workflow:
 jobs:
   # This workflow contains a single job called "build"
