@@ -76,7 +76,7 @@
 <details>
   <summary>✨ <b>Random Dev Joke</b> (Click to expand)</summary>
   <blockquote>
-    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Joke" />
+    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Dynamically generated programming joke card" />
   </blockquote>
 </details>
 
