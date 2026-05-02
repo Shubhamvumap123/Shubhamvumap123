@@ -7,7 +7,7 @@
 <!-- Animated Typing Effect -->
 <!-- ⚡ Bolt: Migrated to demolab.com CDN to avoid Heroku cold starts and improve load time -->
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&duration=500&pause=1799&background=7C7C7C00&center=true&vCenter=true&random=true&width=1000&height=80&lines=Frontend+Developer+at+Tridiagonal;MERN+Stack+Developer+at+Ncircle;Full+Stack+Developer+at+Applore+" alt="Frontend Developer at Tridiagonal; MERN Stack Developer at Ncircle; Full Stack Developer at Applore" /></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&duration=500&pause=1799&background=7C7C7C00&center=true&vCenter=true&random=true&width=1000&height=80&lines=Frontend+Developer+at+Tridiagonal;MERN+Stack+Developer+at+Ncircle;Full+Stack+Developer+at+Applore+" alt="FullStack Developer at Tridiagonal; MERN Stack Developer at Ncircle; Full Stack Developer at Applore" /></a>
 </p>
 
 ---
