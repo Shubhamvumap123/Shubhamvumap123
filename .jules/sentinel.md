@@ -1,4 +1,4 @@
-## 2024-05-24 - Unintended Repository Rollback Risk
-**Vulnerability:** A force-push step to the master branch without prior commits.
-**Learning:** workflow_dispatch triggers on older commits can cause complete branch rollback if combined with force-push.
-**Prevention:** Remove unnecessary push steps and avoid force-pushes.
+## 2024-10-24 - Restrict GITHUB_TOKEN permissions in workflow
+**Vulnerability:** GitHub Actions workflow lacks explicit `permissions` block, defaulting to potentially permissive repository settings.
+**Learning:** Defining an explicit `permissions` block at the job level implicitly sets all other unlisted `GITHUB_TOKEN` permissions to `none`, enforcing the principle of least privilege.
+**Prevention:** Always define explicit `permissions` for `GITHUB_TOKEN` in GitHub Actions workflows to minimize the blast radius of a compromised token.
