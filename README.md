@@ -1,7 +1,7 @@
 
 <p align="center">
-<a href="https://cal.com/shubham-umap"><img src="https://img.shields.io/badge/Book_a_Call-758e4f?style=for-the-badge&logo=calendly&logoColor=white" style="vertical-align: -10px;" alt="Cal.com"/></a>
-<a href="https://www.linkedin.com/in/shubham-umap-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align: -10px;" alt="LinkedIn"/></a>
+<a href="https://cal.com/shubham-umap"><img src="https://img.shields.io/badge/Book_a_Call-758e4f?style=for-the-badge&logo=calendly&logoColor=white" style="vertical-align: -10px;" alt="Book a Call on Cal.com"/></a>
+<a href="https://www.linkedin.com/in/shubham-umap-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align: -10px;" alt="Visit my LinkedIn profile"/></a>
 </p>
 <br clear="all" />
 <!-- Animated Typing Effect -->
@@ -76,7 +76,7 @@
 <details>
   <summary>✨ <b>Random Dev Joke</b> (Click to expand)</summary>
   <blockquote>
-    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Joke" />
+    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Dynamically generated programming joke card" />
   </blockquote>
 </details>
 
