@@ -13,6 +13,9 @@ on:
 # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
 
+permissions:
+  contents: read
+
 # The sequence of runs in this workflow:
 jobs:
   # This workflow contains a single job called "build"
