@@ -22,7 +22,8 @@ jobs:
   build:
     permissions:
       contents: write
-    timeout-minutes: 15
+    # Prevent infinite runs
+    timeout-minutes: 10
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
     timeout-minutes: 10
