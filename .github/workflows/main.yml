@@ -24,6 +24,10 @@ jobs:
     permissions:
       contents: write
 
+    # Enforce principle of least privilege for GITHUB_TOKEN
+    permissions:
+      contents: write
+
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
 
