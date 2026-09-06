@@ -3,9 +3,6 @@
 
 name: Generate Snake
 
-permissions:
-  contents: write
-
 # Controls when the action will run. This action runs every 6 hours.
 
 on:
@@ -16,26 +13,20 @@ on:
 # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
 
-# Security: Restrict permissions to minimum required (contents: write for pushing changes)
-permissions:
-  contents: write
-
 # The sequence of runs in this workflow:
 jobs:
   # This workflow contains a single job called "build"
   build:
-    permissions:
-      contents: write # Required to push the generated snake animation to the output branch
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Required to push generated files to the output branch
+      contents: write # Required to push generated snake files to the output branch
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4.3.1
+      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
 
     # Generates the snake  
       - uses: Platane/snk@e2cedf76a2c05b25d09a6428ded69727b497a700 # v3
@@ -50,16 +41,8 @@ jobs:
      # show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
 
-      # Push the changes
-      - name: Push changes
-        uses: ad-m/github-push-action@4cc74773234f74829a8c21bc4d69dd4be9cfa599 # master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
 
-      # ⚡ Bolt: Upgraded to v4.0.0 to utilize faster Node 20 runtime and avoid deprecation warnings
-      - uses: crazy-max/ghaction-github-pages@v4.0.0
+      - uses: crazy-max/ghaction-github-pages@361b74e73ccac505c7b5bcbff9b7d6cb0510dc4e # v2.1.3
         with:
           # the output branch we mentioned above
           target_branch: output
